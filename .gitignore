@@ -1,1 +1,13 @@
+# Node / Frontend
+node_modules/
+dist/
+.next/
 
+# Python / Backend
+__pycache__/
+.venv/
+
+# Environment & Secrets
+.env
+.env.local
+*.log
